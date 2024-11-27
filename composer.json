@@ -1,5 +1,5 @@
 {
-    "name": "thecodingmachine/phpstan-strict-rules",
+    "name": "extern-kovalenko/phpstan-strict-rules",
     "description": "A set of additional rules for PHPStan based on best practices followed at TheCodingMachine",
     "type": "phpstan-extension",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "David Négrier",
             "email": "d.negrier@thecodingmachine.com"
+        },
+        {
+            "name": "Vsevolod Kovalenko"
+            "email": "kovalenko.v.e@gmail.com"
         }
     ],
     "require": {
